@@ -1,4 +1,4 @@
-# [![giordon stark header](https://raw.githubusercontent.com/kratsg/kratsg/master/img/banner.png)](https://giordonstark.com?utm_source=github.com&utm_medium=gh-profile-banner)
+# [![giordon stark header](https://raw.githubusercontent.com/kratsg/kratsg/master/img/banner.png?raw=true)](https://giordonstark.com?utm_source=github.com&utm_medium=gh-profile-banner)
 
 ## 👋 Giordon Stark — @kratsg
 
